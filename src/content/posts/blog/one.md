@@ -6,6 +6,6 @@ description: 我的第一篇blog
 tags: [Markdown,blog]
 category: blog
 draft: false
-image: C:\Users\MI\Desktop\blog1\Firefly\public\gallery\firefly-2026\12.jpg
+image: \public\gallery\firefly-2026\12.jpg
 ---
 这是我第一篇blog
